@@ -1,4 +1,4 @@
-#Selenium - Java with Docker, Git and Jenkins
+# Selenium - Java with Docker, Git and Jenkins
 
 #### Video1 - Java Installation | JDK and JRE | IntelliJ Installation
 
